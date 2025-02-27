@@ -27,19 +27,19 @@ Explore the source code on GitHub: [Counter App Repository](https://github.com/h
 
 Below is an overview of the project directory structure:
 
-counter-app/
-├── public/
-│   ├── index.html
+counter-app/      
+├── public/      
+│   ├── index.html      
 │   └── ...            # Other static assets (images, icons, etc.)
-├── src/
-│   ├── components/
-│   │   └── Counter.jsx
-│   ├── App.jsx
-│   ├── index.css
-│   └── index.js
-├── .gitignore
-├── package.json
-└── README.md
+├── src/      
+│   ├── components/      
+│   │   └── Counter.jsx      
+│   ├── App.jsx      
+│   ├── index.css      
+│   └── index.js      
+├── .gitignore      
+├── package.json      
+└── README.md      
 
 
 
